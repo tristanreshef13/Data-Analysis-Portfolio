@@ -1,4 +1,3 @@
-
 <div dir="rtl">
 
 # **Data-Analysis-Portfolio**  
@@ -6,11 +5,6 @@
 
 ---
 
-## 📂 **Pizza Sales Analysis**  
-במטלה זו ניתחנו נתוני מכירות מפיצרייה בארה"ב כדי לזהות מגמות ולשפר תהליכים.
-
-🔹 **[קובץ הנתונים (CSV)](https://github.com/tristanreshef13/Data-Analysis-Portfolio/blob/main/pizza_sales%20(1).csv)**  
-🔹 **[Notebook עם הקוד](https://github.com/tristanreshef13/Data-Analysis-Portfolio/blob/main/pizza_sales_analsys_and_optimization_Using_Pandas_to_understand_the_data_tristan_reshef.ipynb)**  
 
 ---
 
@@ -25,5 +19,12 @@
 
 ## 📄 **דוקומנטציה**
 🔹 **[מסמך דוקומנטציה](https://github.com/tristanreshef13/Data-Analysis-Portfolio/blob/main/%D7%93%D7%95%D7%A7%D7%95%D7%9E%D7%A0%D7%98%D7%A6%D7%99%D7%94%20(3).pdf)**  
+
+## 📂 **Pizza Sales Analysis**  
+במטלה זו ניתחנו נתוני מכירות מפיצרייה בארה"ב כדי לזהות מגמות ולשפר תהליכים.
+
+🔹 **[קובץ הנתונים (CSV)](https://github.com/tristanreshef13/Data-Analysis-Portfolio/blob/main/pizza_sales%20(1).csv)**  
+🔹 **[Notebook עם הקוד](https://github.com/tristanreshef13/Data-Analysis-Portfolio/blob/main/pizza_sales_analsys_and_optimization_Using_Pandas_to_understand_the_data_tristan_reshef.ipynb)**  
+
 
 </div>
